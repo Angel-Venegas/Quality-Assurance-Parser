@@ -1,0 +1,4 @@
+Test #;Build #;Category;Test Case;Expected Result;Actual Result;Repeatable?;Blocker?;Test Owner
+1;3/8/24;Main Menu;User Case: Changing sound settings should be heard before clicking save.;Be able to listen to sound settings before clicking save.;Could only hear sound results after “SAVE” was clicked.;yes;No;Angel Venegas
+2;3/8/2024;Login;Bug: Does not log in with email.;To enter the game.;Stuck in “Login with email..”;Yes;Yes;Angel Venegas
+3;3/8/2024;Game;Bug: Adventure Mode not working.;Expected to play a match.;Could not play a match.;Yes;Yes;Angel Venegas

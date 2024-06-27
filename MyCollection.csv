@@ -1,0 +1,11 @@
+﻿Test #;Build #;Category;Test Case;Expected Result;Actual Result;Repeatable?;Blocker?;Test Owner
+1;2/25/2024;Game;Bug: I am on Mac OS and when I click on “New Player” it takes me to a tutorial and it says “To begin the game, draw a new card.” And it does not let me draw any cards. The browser I am playing on is Chrome.;I expected the game to let me draw a card with my mouse.;What actually happened is that it did not let me click on a card to draw.;yes;Yes;Angel Venegas
+2;2/25/2024;Main Page;User Case I tried scrolling left and right when;I expected left and right scrolling.;No left and right scrolling.;Yes;Yes;Angel Venegas
+3;2/25/2024;Main Page;Full screen mode cuts the sides of the website viewport.;I expected to be able to see my entire viewport.;Could not see my entire viewport.;Yes;Yes;Angel Venegas
+1;3/5/2024;Game;"Bug: Luna blocks ""Deck Builder"" button.";I expected to be able to click “Deck Builder”.;“Deck Builder” was hidden behind Luna.;Yes;Yes;Angel Venegas
+2;3/5/2024;Tutorial;Bug: Does not let me add 20 guardians like I'm supposed to.;I expected to get 20 guardians instead of just 1.;Only 1 guardian was added.;Yes;Yes;Angel Venegas
+1;3/8/24;Main Menu;User Case: Changing sound settings should be heard before clicking save.;Be able to listen to sound settings before clicking save.;Could only hear sound results after “SAVE” was clicked.;yes;No;Angel Venegas
+2;3/8/2024;Login;Bug: Does not log in with email.;To enter the game.;Stuck in “Login with email..”;Yes;Yes;Angel Venegas
+3;3/8/2024;Game;Bug: Adventure Mode not working.;Expected to play a match.;Could not play a match.;Yes;Yes;Angel Venegas
+1;3/11/2024;Tutorial;User Case: Explain what guardians are in the game.;I expected to know what a guardian is.;I guessed what a guardian was and added them to my card collection.;Yes;No;Angel Venegas
+2;3/11/2024;Game;Bug: Sometimes it does not let me attack the computer in a card match.;I expected to be able to attack the computer.;I Could not attack.;Yes;Yes;Angel Venegas

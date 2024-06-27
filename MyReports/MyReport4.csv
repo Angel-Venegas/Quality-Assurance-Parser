@@ -1,0 +1,3 @@
+Test #;Build #;Category;Test Case;Expected Result;Actual Result;Repeatable?;Blocker?;Test Owner
+1;3/11/2024;Tutorial;User Case: Explain what guardians are in the game.;I expected to know what a guardian is.;I guessed what a guardian was and added them to my card collection.;Yes;No;Angel Venegas
+2;3/11/2024;Game;Bug: Sometimes it does not let me attack the computer in a card match.;I expected to be able to attack the computer.;I Could not attack.;Yes;Yes;Angel Venegas

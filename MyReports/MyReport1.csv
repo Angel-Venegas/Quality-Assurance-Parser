@@ -1,0 +1,4 @@
+Test #;Build #;Category;Test Case;Expected Result;Actual Result;Repeatable?;Blocker?;Test Owner
+1;2/25/2024;Game;Bug: I am on Mac OS and when I click on “New Player” it takes me to a tutorial and it says “To begin the game, draw a new card.” And it does not let me draw any cards. The browser I am playing on is Chrome.;I expected the game to let me draw a card with my mouse.;What actually happened is that it did not let me click on a card to draw.;yes;Yes;Angel Venegas
+2;2/25/2024;Main Page;User Case I tried scrolling left and right when;I expected left and right scrolling.;No left and right scrolling.;Yes;Yes;Angel Venegas
+3;2/25/2024;Main Page;Full screen mode cuts the sides of the website viewport.;I expected to be able to see my entire viewport.;Could not see my entire viewport.;Yes;Yes;Angel Venegas
